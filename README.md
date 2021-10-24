@@ -12,7 +12,7 @@ For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults 
 
 The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account. 
 
-Your solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda.
+The solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda.
 
 It will also provide insights into some of the key demographic factors that might drive individuals’ financial outcomes.
 
