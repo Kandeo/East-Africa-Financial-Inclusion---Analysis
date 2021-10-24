@@ -21,9 +21,9 @@ Google Colaboratory
 
 Pandas, Numpy and Matplotlib Libraries
 
-Data cleaning tools
+Exploratory Data analysis techniques
 
-Exploratory data analysis techniques.
+Multiple regression and Reduction technique tools.
 
 ## Known Bugs
 No Known Bugs
@@ -37,4 +37,4 @@ To make a contribution to the code or any part of the project,
 Kindly contact me through; christinekandeo@gmail.com.
 ### License
 
-Copyright (c) 2021 **Data Science**
+Copyright (c) 2021 **Moringa School Data Science**
